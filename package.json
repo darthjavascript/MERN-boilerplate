@@ -1,5 +1,5 @@
 {
-  "name": "MERN-boilerplate",
+  "name": "johntotherescue.com",
   "version": "1.0.0",
   "description": "MERN stack project boilerplate",
   "author": "Eugene Cheung",
@@ -44,5 +44,10 @@
     "sass-loader": "^6.0.6",
     "postcss-loader": "^2.0.6",
     "style-loader": "^0.18.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/arkon/MERN-boilerplate/issues"
+  },
+  "homepage": "https://github.com/arkon/MERN-boilerplate#readme",
+  "main": "postcss.config.js"
 }
